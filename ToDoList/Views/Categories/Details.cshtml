@@ -17,7 +17,7 @@ else
 {
   <h4>Items the category contains:</h4>
   <ul>
-    @foreach(var join in Model.Items)
+    @foreach(var join in Model.Items) //passing in a category and targeting all Items associated with that category
     {
       <li>@join.Item.Description</li>
     }
