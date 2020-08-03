@@ -2,7 +2,7 @@
 
 #### Entity Exercise for Epicodus 08.03.2020
 
-### By Kate Skorija, Brittany Lundgren, & Deryck Jackson
+### By Kate Skorija, Brittany Lindgren, & Deryck Jackson
 
 ## Description
 
@@ -42,4 +42,4 @@ If there are any issues or questions, please reach out to me through [my GitHub 
 
 *This project uses the following license: [MIT](https://opensource.org/licenses/MIT)*
 
-Copyright (c) 2020 **_Kate Skorija, Brittany Lundgren, & Deryck Jackson_** 
+Copyright (c) 2020 **_Kate Skorija, Brittany Lindgren, & Deryck Jackson_** 
